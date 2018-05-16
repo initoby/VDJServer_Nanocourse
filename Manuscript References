@@ -1,8 +1,13 @@
-1) VDJServer paper:
+REFERENCES:
+1) VDJServer:
 doi:10.3389/fimmu.2018.00976
-2) Breast Cancer use case paper:
+2) Breast Cancer use case:
 doi:10.1073/pnas.1713863114
-3) IgBlast paper:
+3) IgBlast:
 doi:10.1093/nar/gkt382
-4) Fastq demo data paper:
+4) Fastq demo data:
 http://www.biomedcentral.com/1471-2172/15/40
+5) AIRR community publication on reuse and reproducibility of immune seq data:
+PMID: 29163494; PMCID: PMC5671925; DOI: 10.3389/fimmu.2017.01418
+6) AIRR community recommendations for sharing immune seq data:
+PMCID: PMC5790180; PMID: 29144493
