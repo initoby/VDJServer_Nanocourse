@@ -1,5 +1,5 @@
 # VDJServer_Nanocourse
-Immune Receptor Profiling; 
+Course Topic: Immune Receptor Profiling; 
 Date: June 1, 2018;
 Location: UTSW, North Campus, NL03.120;
 Time: 9am- 4:30pm;
